@@ -1,0 +1,14 @@
+C:\Users\Todos\source\repos\AcampaLlama\class1\obj\Debug\net6.0\UnidadVentas.CapaDeDatos.csproj.AssemblyReference.cache
+C:\Users\Todos\source\repos\AcampaLlama\class1\obj\Debug\net6.0\UnidadVentas.CapaDeDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Todos\source\repos\AcampaLlama\class1\obj\Debug\net6.0\UnidadVentas.CapaDeDatos.AssemblyInfoInputs.cache
+C:\Users\Todos\source\repos\AcampaLlama\class1\obj\Debug\net6.0\UnidadVentas.CapaDeDatos.AssemblyInfo.cs
+C:\Users\Todos\source\repos\AcampaLlama\class1\obj\Debug\net6.0\UnidadVentas.CapaDeDatos.csproj.CoreCompileInputs.cache
+C:\Users\Todos\source\repos\AcampaLlama\class1\bin\Debug\net6.0\UnidadVentas.CapaDeDatos.deps.json
+C:\Users\Todos\source\repos\AcampaLlama\class1\bin\Debug\net6.0\UnidadVentas.CapaDeDatos.runtimeconfig.json
+C:\Users\Todos\source\repos\AcampaLlama\class1\bin\Debug\net6.0\UnidadVentas.CapaDeDatos.dll
+C:\Users\Todos\source\repos\AcampaLlama\class1\bin\Debug\net6.0\UnidadVentas.CapaDeDatos.pdb
+C:\Users\Todos\source\repos\AcampaLlama\class1\obj\Debug\net6.0\UnidadVentas.CapaDeDatos.dll
+C:\Users\Todos\source\repos\AcampaLlama\class1\obj\Debug\net6.0\refint\UnidadVentas.CapaDeDatos.dll
+C:\Users\Todos\source\repos\AcampaLlama\class1\obj\Debug\net6.0\UnidadVentas.CapaDeDatos.pdb
+C:\Users\Todos\source\repos\AcampaLlama\class1\obj\Debug\net6.0\UnidadVentas.CapaDeDatos.genruntimeconfig.cache
+C:\Users\Todos\source\repos\AcampaLlama\class1\obj\Debug\net6.0\ref\UnidadVentas.CapaDeDatos.dll

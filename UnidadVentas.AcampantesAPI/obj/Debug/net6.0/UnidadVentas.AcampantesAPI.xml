@@ -1,0 +1,306 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>UnidadVentas.AcampantesAPI</name>
+    </assembly>
+    <members>
+        <member name="T:UnidadVentas.AcampantesAPI.Controllers.AcampantesController">
+             <summary>
+            P0002.6 Permite la creacion de acciones para la escucha y estas deben especificar si son GET o POST 
+            Deben llevar una anotacion Route que indique el nombre para identificar la accion 
+            Se debe crear una variable de el negocio que representa para poder acceder a los metodos
+             </summary>
+        </member>
+        <member name="M:UnidadVentas.AcampantesAPI.Controllers.AcampantesController.#ctor(UnidadVenta.Negocio.Unidades.Unidad.Interfaces.INegAcampantes)">
+            <summary>
+            P0003.1 Se usa el constructor para consumir la inyeccion de dependencia y se recibe como parametro
+            la interfaz de lo que se necesta implementar, para asignarlo a una variable privada a la que podamos utilizar
+            </summary>
+            <param name="acampantes"></param>
+        </member>
+        <member name="M:UnidadVentas.AcampantesAPI.Controllers.AcampantesController.Obtener">
+            <summary>
+            Metodo para obtener estado de acampantes
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:UnidadVentas.AcampantesAPI.Controllers.AcampantesController.Guardar(UnidadVentas.Modelos.MAcampantes)">
+            <summary>
+            Metodo para guardar acampantes
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:UnidadVentas.AcampantesAPI.Controllers.AcampantesController.Eliminar(UnidadVentas.Modelos.MAcampantes)">
+            <summary>
+            Metodo para guardar acampantes
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:UnidadVentas.AcampantesAPI.Controllers.AcampantesController.Modificar(UnidadVentas.Modelos.MAcampantes)">
+            <summary>
+            Metodo para guardar acampantes
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:UnidadVentas.AcampantesAPI.Controllers.CampamentoController">
+            <summary>
+            Controlador de campamento
+            </summary>
+        </member>
+        <member name="M:UnidadVentas.AcampantesAPI.Controllers.CampamentoController.#ctor(UnidadVenta.Negocio.Unidades.Unidad.Interfaces.INegCampamento)">
+            <summary>
+            Se usa el constructor para consumir la inyeccion de dependencia y se recibe como parametro
+            la interfaz de lo que se necesta implementar, para asignarlo a una variable privada a la que podamos utilizar
+            </summary>
+            <param name="campamento"></param>
+        </member>
+        <member name="M:UnidadVentas.AcampantesAPI.Controllers.CampamentoController.Obtener">
+            <summary>
+            Metodo para obtener estado de campamento
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:UnidadVentas.AcampantesAPI.Controllers.CampamentoController.Guardar(UnidadVentas.Modelos.MCampamento)">
+            <summary>
+            Metodo para obtener estado de acampantes
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:UnidadVentas.AcampantesAPI.Controllers.CampamentoController.Eliminar(UnidadVentas.Modelos.MCampamento)">
+            <summary>
+            Metodo para guardar acampantes
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:UnidadVentas.AcampantesAPI.Controllers.CampamentoController.Modificar(UnidadVentas.Modelos.MCampamento)">
+            <summary>
+            Metodo para guardar acampantes
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:UnidadVentas.CiudadAPI.Controllers.CiudadController.#ctor(UnidadVenta.Negocio.Unidades.Unidad.Interfaces.INegCiudad)">
+            <summary>
+            Se usa el constructor para consumir la inyeccion de dependencia y se recibe como parametro
+            la interfaz de lo que se necesta implementar, para asignarlo a una variable privada a la que podamos utilizar
+            </summary>
+            <param name="ciudad"></param>
+        </member>
+        <member name="M:UnidadVentas.CiudadAPI.Controllers.CiudadController.Obtener">
+            <summary>
+            Metodo para obtener estado de ciudad
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:UnidadVentas.CiudadAPI.Controllers.CiudadController.Guardar(UnidadVentas.Modelos.MCiudad)">
+            <summary>
+            Metodo para obtener estado de ciudad
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:UnidadVentas.CiudadAPI.Controllers.CiudadController.Eliminar(UnidadVentas.Modelos.MCiudad)">
+            <summary>
+            Metodo para guardar acampantes
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:UnidadVentas.CiudadAPI.Controllers.CiudadController.Modificar(UnidadVentas.Modelos.MCiudad)">
+            <summary>
+            Metodo para guardar acampantes
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:UnidadVentas.EventoAPI.Controllers.EventoController.#ctor(UnidadVenta.Negocio.Unidades.Unidad.Interfaces.INegEvento)">
+            <summary>
+            Se usa el constructor para consumir la inyeccion de dependencia y se recibe como parametro
+            la interfaz de lo que se necesta implementar, para asignarlo a una variable privada a la que podamos utilizar
+            </summary>
+            <param name="evento"></param>
+        </member>
+        <member name="M:UnidadVentas.EventoAPI.Controllers.EventoController.Obtener">
+            <summary>
+            Metodo para obtener estado de acampantes
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:UnidadVentas.EventoAPI.Controllers.EventoController.Guardar(UnidadVentas.Modelos.MEvento)">
+            <summary>
+            Metodo para obtener estado de acampantes
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:UnidadVentas.EventoAPI.Controllers.EventoController.Eliminar(UnidadVentas.Modelos.MEvento)">
+            <summary>
+            Metodo para guardar acampantes
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:UnidadVentas.EventoAPI.Controllers.EventoController.Modificar(UnidadVentas.Modelos.MEvento)">
+            <summary>
+            Metodo para guardar acampantes
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:UnidadVentas.HistorialAPI.Controllers.HistorialController.#ctor(UnidadVenta.Negocio.Unidades.Unidad.Interfaces.INegHistorial)">
+            <summary>
+            Se usa el constructor para consumir la inyeccion de dependencia y se recibe como parametro
+            la interfaz de lo que se necesta implementar, para asignarlo a una variable privada a la que podamos utilizar
+            </summary>
+            <param name="historial"></param>
+        </member>
+        <member name="M:UnidadVentas.HistorialAPI.Controllers.HistorialController.Obtener">
+            <summary>
+            Metodo para obtener estado de historial
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:UnidadVentas.HistorialAPI.Controllers.HistorialController.Guardar(UnidadVentas.Modelos.MHistorial)">
+            <summary>
+            Metodo para obtener estado de historial
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:UnidadVentas.HistorialAPI.Controllers.HistorialController.Eliminar(UnidadVentas.Modelos.MHistorial)">
+            <summary>
+            Metodo para guardar acampantes
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:UnidadVentas.HistorialAPI.Controllers.HistorialController.Modificar(UnidadVentas.Modelos.MHistorial)">
+            <summary>
+            Metodo para guardar acampantes
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:UnidadVentas.OrganizadorAPI.Controllers.OrganizadorController.#ctor(UnidadVenta.Negocio.Unidades.Unidad.Interfaces.INegOrganizador)">
+            <summary>
+            Se usa el constructor para consumir la inyeccion de dependencia y se recibe como parametro
+            la interfaz de lo que se necesta implementar, para asignarlo a una variable privada a la que podamos utilizar
+            </summary>
+            <param name="organizador"></param>
+        </member>
+        <member name="M:UnidadVentas.OrganizadorAPI.Controllers.OrganizadorController.Obtener">
+            <summary>
+            Metodo para obtener estado de organizador
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:UnidadVentas.OrganizadorAPI.Controllers.OrganizadorController.Guardar(UnidadVentas.Modelos.MOrganizador)">
+            <summary>
+            Metodo para obtener estado de organizador
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:UnidadVentas.OrganizadorAPI.Controllers.OrganizadorController.Eliminar(UnidadVentas.Modelos.MOrganizador)">
+            <summary>
+            Metodo para guardar acampantes
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:UnidadVentas.OrganizadorAPI.Controllers.OrganizadorController.Modificar(UnidadVentas.Modelos.MOrganizador)">
+            <summary>
+            Metodo para guardar acampantes
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:UnidadVentas.TipoTransporteAPI.Controllers.TipoTransporteController.#ctor(UnidadVenta.Negocio.Unidades.Unidad.Interfaces.INegTipoTransporte)">
+            <summary>
+            Se usa el constructor para consumir la inyeccion de dependencia y se recibe como parametro
+            la interfaz de lo que se necesta implementar, para asignarlo a una variable privada a la que podamos utilizar
+            </summary>
+            <param name="tipotransporte"></param>
+        </member>
+        <member name="M:UnidadVentas.TipoTransporteAPI.Controllers.TipoTransporteController.Obtener">
+            <summary>
+            Metodo para obtener estado de tipotransporte
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:UnidadVentas.TipoTransporteAPI.Controllers.TipoTransporteController.Guardar(UnidadVentas.Modelos.MTipoTransporte)">
+            <summary>
+            Metodo para obtener estado de tipotransporte
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:UnidadVentas.TipoTransporteAPI.Controllers.TipoTransporteController.Eliminar(UnidadVentas.Modelos.MTipoTransporte)">
+            <summary>
+            Metodo para guardar acampantes
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:UnidadVentas.TipoTransporteAPI.Controllers.TipoTransporteController.Modificar(UnidadVentas.Modelos.MTipoTransporte)">
+            <summary>
+            Metodo para guardar acampantes
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:UnidadVentas.TransporteAPI.Controllers.TransporteController">
+             <summary>
+            P0002.6 Permite la creacion de acciones para la escucha y estas deben especificar si son GET o POST 
+            Deben llevar una anotacion Route que indique el nombre para identificar la accion 
+            Se debe crear una variable de el negocio que representa para poder acceder a los metodos
+             </summary>
+        </member>
+        <member name="M:UnidadVentas.TransporteAPI.Controllers.TransporteController.#ctor(UnidadVenta.Negocio.Unidades.Unidad.Interfaces.INegTransporte)">
+            <summary>
+            Se usa el constructor para consumir la inyeccion de dependencia y se recibe como parametro
+            la interfaz de lo que se necesta implementar, para asignarlo a una variable privada a la que podamos utilizar
+            </summary>
+            <param name="transporte"></param>
+        </member>
+        <member name="M:UnidadVentas.TransporteAPI.Controllers.TransporteController.Obtener">
+            <summary>
+            Metodo para obtener estado de transporte
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:UnidadVentas.TransporteAPI.Controllers.TransporteController.Guardar(UnidadVentas.Modelos.MTransporte)">
+            <summary>
+            Metodo para obtener estado de transporte
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:UnidadVentas.TransporteAPI.Controllers.TransporteController.Eliminar(UnidadVentas.Modelos.MTransporte)">
+            <summary>
+            Metodo para guardar acampantes
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:UnidadVentas.TransporteAPI.Controllers.TransporteController.Modificar(UnidadVentas.Modelos.MTransporte)">
+            <summary>
+            Metodo para guardar acampantes
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:UnidadVentas.TutorAPI.Controllers.TutorController.#ctor(UnidadVenta.Negocio.Unidades.Unidad.Interfaces.INegTutor)">
+            <summary>
+            Se usa el constructor para consumir la inyeccion de dependencia y se recibe como parametro
+            la interfaz de lo que se necesta implementar, para asignarlo a una variable privada a la que podamos utilizar
+            </summary>
+            <param name="tutor"></param>
+        </member>
+        <member name="M:UnidadVentas.TutorAPI.Controllers.TutorController.Obtener">
+            <summary>
+            Metodo para obtener estado de tutor
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:UnidadVentas.TutorAPI.Controllers.TutorController.Guardar(UnidadVentas.Modelos.MTutor)">
+            <summary>
+            Metodo para obtener estado de tutor
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:UnidadVentas.TutorAPI.Controllers.TutorController.Eliminar(UnidadVentas.Modelos.MTutor)">
+            <summary>
+            Metodo para guardar acampantes
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:UnidadVentas.TutorAPI.Controllers.TutorController.Modificar(UnidadVentas.Modelos.MTutor)">
+            <summary>
+            Metodo para guardar acampantes
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

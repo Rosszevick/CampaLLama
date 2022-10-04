@@ -1,0 +1,12 @@
+C:\Users\Todos\source\repos\AcampaLlama\UnidadVentas\bin\Debug\net6.0\UnidadVentas.Trasversal.deps.json
+C:\Users\Todos\source\repos\AcampaLlama\UnidadVentas\bin\Debug\net6.0\UnidadVentas.Trasversal.dll
+C:\Users\Todos\source\repos\AcampaLlama\UnidadVentas\bin\Debug\net6.0\UnidadVentas.Trasversal.pdb
+C:\Users\Todos\source\repos\AcampaLlama\UnidadVentas\obj\Debug\net6.0\UnidadVentas.Trasversal.csproj.AssemblyReference.cache
+C:\Users\Todos\source\repos\AcampaLlama\UnidadVentas\obj\Debug\net6.0\UnidadVentas.Trasversal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Todos\source\repos\AcampaLlama\UnidadVentas\obj\Debug\net6.0\UnidadVentas.Trasversal.AssemblyInfoInputs.cache
+C:\Users\Todos\source\repos\AcampaLlama\UnidadVentas\obj\Debug\net6.0\UnidadVentas.Trasversal.AssemblyInfo.cs
+C:\Users\Todos\source\repos\AcampaLlama\UnidadVentas\obj\Debug\net6.0\UnidadVentas.Trasversal.csproj.CoreCompileInputs.cache
+C:\Users\Todos\source\repos\AcampaLlama\UnidadVentas\obj\Debug\net6.0\UnidadVentas.Trasversal.dll
+C:\Users\Todos\source\repos\AcampaLlama\UnidadVentas\obj\Debug\net6.0\refint\UnidadVentas.Trasversal.dll
+C:\Users\Todos\source\repos\AcampaLlama\UnidadVentas\obj\Debug\net6.0\UnidadVentas.Trasversal.pdb
+C:\Users\Todos\source\repos\AcampaLlama\UnidadVentas\obj\Debug\net6.0\ref\UnidadVentas.Trasversal.dll

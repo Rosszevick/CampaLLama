@@ -1,0 +1,17 @@
+C:\Users\Todos\source\repos\AcampaLlama\UnidadVenta.Negocio\obj\Debug\net6.0\UnidadVenta.Negocio.csproj.AssemblyReference.cache
+C:\Users\Todos\source\repos\AcampaLlama\UnidadVenta.Negocio\obj\Debug\net6.0\UnidadVenta.Negocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Todos\source\repos\AcampaLlama\UnidadVenta.Negocio\obj\Debug\net6.0\UnidadVenta.Negocio.AssemblyInfoInputs.cache
+C:\Users\Todos\source\repos\AcampaLlama\UnidadVenta.Negocio\obj\Debug\net6.0\UnidadVenta.Negocio.AssemblyInfo.cs
+C:\Users\Todos\source\repos\AcampaLlama\UnidadVenta.Negocio\obj\Debug\net6.0\UnidadVenta.Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Todos\source\repos\AcampaLlama\UnidadVenta.Negocio\bin\Debug\net6.0\UnidadVenta.Negocio.deps.json
+C:\Users\Todos\source\repos\AcampaLlama\UnidadVenta.Negocio\bin\Debug\net6.0\UnidadVenta.Negocio.dll
+C:\Users\Todos\source\repos\AcampaLlama\UnidadVenta.Negocio\bin\Debug\net6.0\UnidadVenta.Negocio.pdb
+C:\Users\Todos\source\repos\AcampaLlama\UnidadVenta.Negocio\bin\Debug\net6.0\UnidadVentas.CapaDeDatos.dll
+C:\Users\Todos\source\repos\AcampaLlama\UnidadVenta.Negocio\bin\Debug\net6.0\UnidadVentas.Trasversal.dll
+C:\Users\Todos\source\repos\AcampaLlama\UnidadVenta.Negocio\bin\Debug\net6.0\UnidadVentas.CapaDeDatos.pdb
+C:\Users\Todos\source\repos\AcampaLlama\UnidadVenta.Negocio\bin\Debug\net6.0\UnidadVentas.Trasversal.pdb
+C:\Users\Todos\source\repos\AcampaLlama\UnidadVenta.Negocio\obj\Debug\net6.0\UnidadVenta.Negocio.csproj.CopyComplete
+C:\Users\Todos\source\repos\AcampaLlama\UnidadVenta.Negocio\obj\Debug\net6.0\UnidadVenta.Negocio.dll
+C:\Users\Todos\source\repos\AcampaLlama\UnidadVenta.Negocio\obj\Debug\net6.0\refint\UnidadVenta.Negocio.dll
+C:\Users\Todos\source\repos\AcampaLlama\UnidadVenta.Negocio\obj\Debug\net6.0\UnidadVenta.Negocio.pdb
+C:\Users\Todos\source\repos\AcampaLlama\UnidadVenta.Negocio\obj\Debug\net6.0\ref\UnidadVenta.Negocio.dll

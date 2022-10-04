@@ -1,0 +1,86 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Apis", "Apis", "{D5A9C2A1-46E7-4443-8983-1C984310CDF1}"
+	ProjectSection(SolutionItems) = preProject
+		TablasAcampantes\appsettings.json = TablasAcampantes\appsettings.json
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Dominio", "Dominio", "{B575D08A-7DD0-4F03-8B3B-26CB66DEB256}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Negocio", "Negocio", "{2AAE7ACD-170C-4E09-AA1F-C965535A776B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Proveedor", "Proveedor", "{747A2FAC-75DD-4CE0-8A7D-0B822745A9CB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "AccesoDatos", "AccesoDatos", "{7C71ABC7-4EB9-41A6-89FF-B67630CCD820}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UnidadVentas.CapaDeDatos", "class1\UnidadVentas.CapaDeDatos.csproj", "{AF02FC16-10BF-4F17-904B-9064D42409BF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UnidadVentas.Trasversal", "UnidadVentas\UnidadVentas.Trasversal.csproj", "{A2FC221E-74D2-4DE0-A81A-4CFC164C1BDD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UnidadVenta.Negocio", "UnidadVenta.Negocio\UnidadVenta.Negocio.csproj", "{1042E25F-2E63-45EA-AAA4-CC095CD2E20E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UnidadVenta.servicio", "UnidadVenta.servicio\UnidadVenta.servicio.csproj", "{53C764DF-DB1A-49D4-B1D4-CEF4BB2F584E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Front", "Front", "{0B718DC9-4266-49D6-818A-8CFDF3C825A6}"
+	ProjectSection(SolutionItems) = preProject
+		AcampaLlama.html = AcampaLlama.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Css", "Css", "{617BB711-7A73-49BD-83D9-B7A803CF307B}"
+	ProjectSection(SolutionItems) = preProject
+		EstilosLlama.css = EstilosLlama.css
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "JavaScrpt", "JavaScrpt", "{0DF93396-B1F8-4E09-8C9B-E0AC160127AC}"
+	ProjectSection(SolutionItems) = preProject
+		Ajax.js = Ajax.js
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UnidadVentas.AcampantesAPI", "UnidadVentas.AcampantesAPI\UnidadVentas.AcampantesAPI.csproj", "{84B57E36-3A3E-4DA8-AF4D-F962053D841B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF02FC16-10BF-4F17-904B-9064D42409BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF02FC16-10BF-4F17-904B-9064D42409BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF02FC16-10BF-4F17-904B-9064D42409BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF02FC16-10BF-4F17-904B-9064D42409BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2FC221E-74D2-4DE0-A81A-4CFC164C1BDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2FC221E-74D2-4DE0-A81A-4CFC164C1BDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2FC221E-74D2-4DE0-A81A-4CFC164C1BDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2FC221E-74D2-4DE0-A81A-4CFC164C1BDD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1042E25F-2E63-45EA-AAA4-CC095CD2E20E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1042E25F-2E63-45EA-AAA4-CC095CD2E20E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1042E25F-2E63-45EA-AAA4-CC095CD2E20E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1042E25F-2E63-45EA-AAA4-CC095CD2E20E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53C764DF-DB1A-49D4-B1D4-CEF4BB2F584E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53C764DF-DB1A-49D4-B1D4-CEF4BB2F584E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53C764DF-DB1A-49D4-B1D4-CEF4BB2F584E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53C764DF-DB1A-49D4-B1D4-CEF4BB2F584E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84B57E36-3A3E-4DA8-AF4D-F962053D841B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84B57E36-3A3E-4DA8-AF4D-F962053D841B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84B57E36-3A3E-4DA8-AF4D-F962053D841B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84B57E36-3A3E-4DA8-AF4D-F962053D841B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{AF02FC16-10BF-4F17-904B-9064D42409BF} = {7C71ABC7-4EB9-41A6-89FF-B67630CCD820}
+		{A2FC221E-74D2-4DE0-A81A-4CFC164C1BDD} = {B575D08A-7DD0-4F03-8B3B-26CB66DEB256}
+		{1042E25F-2E63-45EA-AAA4-CC095CD2E20E} = {2AAE7ACD-170C-4E09-AA1F-C965535A776B}
+		{53C764DF-DB1A-49D4-B1D4-CEF4BB2F584E} = {747A2FAC-75DD-4CE0-8A7D-0B822745A9CB}
+		{617BB711-7A73-49BD-83D9-B7A803CF307B} = {0B718DC9-4266-49D6-818A-8CFDF3C825A6}
+		{0DF93396-B1F8-4E09-8C9B-E0AC160127AC} = {0B718DC9-4266-49D6-818A-8CFDF3C825A6}
+		{84B57E36-3A3E-4DA8-AF4D-F962053D841B} = {D5A9C2A1-46E7-4443-8983-1C984310CDF1}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1EC070EF-D091-4663-851F-119ECAF2AA4E}
+	EndGlobalSection
+EndGlobal

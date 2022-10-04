@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "WwtAuG1ZxiKMMrKB/liVNGZtkdpfNWmARk4RcQnzAPjiksmFrdZEWfOdBWIDQsqMfcvq8E/mbqNHr/gF1vtrlA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Todos\\source\\repos\\AcampaLlama\\TablasAcampantes\\TablasAcampantesAPI.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Todos\\.nuget\\packages\\fsharp.core\\6.0.5\\fsharp.core.6.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
